@@ -23,7 +23,7 @@ By default, it supports communication interfaces such as: RS232, CAN, USB, TCP/I
 
 
 ----
-**RT-FOTA**: A bootloader running on STM32 microchips mainly.
+**RT-FOTA**: A bootloader running on STM32 microchips mainly.    
 https://gitee.com/spunky_973/rt-fota
 
 RT-FOTA can be regarded as an community version of RT-OAT which is the bootloader developed by RT-Thread.
