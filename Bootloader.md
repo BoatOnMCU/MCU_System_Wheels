@@ -4,12 +4,16 @@
 
 
 
+----
+
 **WolfBoot**: A secure bootloader
 https://www.wolfssl.com/products/wolfboot/
 
 wolfBoot is a portable secure bootloader solution that offers firmware  authentication and firmware update mechanisms. Due to its minimalistic  design and tiny HAL API, wolfBoot is completely independent from any OS  or bare-metal application.
 
 
+
+----
 
 **openBLT**: A popular bootloader on microcontrollers
 
